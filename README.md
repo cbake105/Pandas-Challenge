@@ -86,7 +86,7 @@ This new DataFrame should show school performance based on the "School Type".
 
 
 
-# Written Report
+# Analysis
 
 Summary: 
 The dataset has 15 total schools, 2 types of schools (charter/district), 39,170 total students, a total budget of $24,649,428 , an average math score of 78.99, an average reading score of 81.88, passing math at 74.98%, passing reading at 85.81%, and overall passing at 65.17%.  
